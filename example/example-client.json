@@ -1,0 +1,10 @@
+{
+  "id": "c-23123123",
+  "first_name": "sooho",
+  "last_name": "lim",
+  "email": "ksjdf;aljd@gmail.com",
+  "phone": "1231231231",
+  "upcoming_appointments": ["a-1234412", "a-1234312"],
+  "past_appointments": ["a-1234415", "a-1234416", "a-4563523"],
+  "orders_placed": ["o-12312312,o-12312312"]
+}

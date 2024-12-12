@@ -1,0 +1,9 @@
+{
+  "id": "o-12312312",
+  "customer_id": "c-123123",
+  "order_date": "2000-10-04",
+  "product_list": ["p-123123", "p-123123", "p-232122"],
+  "price": "240.00",
+  "status": "SHIPPED",
+  "additional_notes": "thank you"
+}

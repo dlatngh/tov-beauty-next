@@ -1,0 +1,8 @@
+{
+  "id": "a-1234412",
+  "customer_id": "c-123123",
+  "service_id": "s-23231",
+  "appointment_date": "2000-10-04",
+  "price": "240.00",
+  "additional_notes": "client has sensitive skin"
+}
