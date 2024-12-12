@@ -1,5 +1,6 @@
 {
   "id": "s-23231",
+  "service_name" : "test_name",
   "price": "123",
   "duration": "30",
   "description:": "test-description"
